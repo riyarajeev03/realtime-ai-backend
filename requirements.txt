@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+websockets
+supabase
+openai
+python-dotenv
+pydantic
+asyncer
+httpx
+python-multipart
